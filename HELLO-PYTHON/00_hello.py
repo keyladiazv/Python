@@ -21,3 +21,5 @@ print(type(5)) # Tipo 'int'
 print(type(1.5)) # Tipo 'float'
 print(type(1 + 1j)) # Tipo 'complex'
 print(type(True)) # Tipo 'bool'
+print(type(print("Hello"))) #Nonetype
+print(type(zip([1,2],[3,4]))) # zip

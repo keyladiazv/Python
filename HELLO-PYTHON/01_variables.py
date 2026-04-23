@@ -35,7 +35,7 @@ print(name)
 print(age)
 """
 
-# Cambiamos su tipo - Python no es de tipado fuerte
+# Cambiamos su tipo - Python no es de tipado fuerte - Es de tipado dinámico
 name = 25
 age = "Keyla"
 
